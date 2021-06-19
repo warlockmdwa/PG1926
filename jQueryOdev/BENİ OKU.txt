@@ -1,0 +1,3 @@
+Eğer CORS hatası alırsanız.
+bruh.bat dosyasını çalıştırıp öyle deneyiniz
+Dikkatiniz için teşekkürler.
